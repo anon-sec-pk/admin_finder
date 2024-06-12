@@ -117,7 +117,7 @@ def main():
         url = 'http://' + url
     
     # Allow user to choose their own admin directories file
-    admin_file = input("Enter the path to your admin directories file (leave empty for default): ").strip()
+    admin_file = input("Enter the path to your admin wordlist file (leave empty for default): ").strip()
     admin_paths = load_admin_paths(admin_file) if admin_file else default_admin_paths
     
     print("\n[+] Finding admin pages...\n")

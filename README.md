@@ -19,7 +19,7 @@ This Python script is designed to help users identify potential admin panels on 
 1. ##Clone the Repository
    
    git clone https://github.com/anon-sec-pk/admin_finder/
-   ```
+   
 
 2. **Navigate to the Directory:**
    ```bash

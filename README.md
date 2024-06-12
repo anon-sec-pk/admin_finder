@@ -14,12 +14,12 @@ This Python script is designed to help users identify potential admin panels on 
 
 1. ##Clone the Repository
    
-   git clone https://github.com/yourusername/admin-panel-finder.git
+   git clone https://github.com/anon-sec-pk/admin_finder/
    ```
 
 2. **Navigate to the Directory:**
    ```bash
-   cd admin-panel-finder
+   cd admin_finder
    ```
 
 3. **Install Dependencies:**

@@ -58,4 +58,4 @@ http://example.com
 - Happy admin panel hunting!
 
 ```
-https://t.me/team_scf_pk
+https://t.me/ncf_pk
